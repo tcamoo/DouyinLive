@@ -549,5 +549,5 @@ docker-compose stop
   </details>
   &emsp;
 
-## 有问题可以提issue, 我会在这里持续添加更多直播平台的录制 欢迎Star
+## 有问题可以提issue, 我会在这里持续添加更多直播平台的录制 欢迎Star,DYLIVE
 #### 
